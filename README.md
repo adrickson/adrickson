@@ -1,5 +1,5 @@
 
-## Hello World eu sou Adrickson, estudante de programação WEB!!
+## Hello World eu sou Adrickson, estudante de programação!!
 
 ## LINGUAGEM ATUAL DE FOCO:
 <div>
