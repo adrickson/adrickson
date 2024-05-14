@@ -1,11 +1,6 @@
 
 ## Hello World eu sou Adrickson, estudante de programação!!
 
-## LINGUAGEM ATUAL DE FOCO:
-<div>
-  <img alt="Img JS" style="width: 200px; margin-left: 30px;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div>
-
 <img alt="Minhas Linguagens" style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrickson&layout=compact&theme=dracula"/>
 
 <div style="display: inline_block"><br>
