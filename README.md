@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou o **Adrickson**, atualmente no **5º período de Engenharia de Software**.
+Olá! Sou **Adrickson**, atualmente no **5º período de Engenharia de Software**.
 
 Meu foco é o desenvolvimento web, unindo interfaces funcionais com back-end estruturado. Tenho experiência prática com tecnologias fundamentais e bancos de dados relacionais, e estou me especializando no ecossistema JavaScript para atuar como Full Stack.
 
