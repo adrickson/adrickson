@@ -34,11 +34,7 @@ Organizei minhas habilidades entre o que já utilizo em projetos e o que está e
 
 Estou sempre aberto a novas conexões e oportunidades. Você pode ver mais do meu perfil profissional ou entrar em contato direto abaixo:
 
-* 💼 <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/adrickson-pinheiro-a5a194301/" target="_blank" rel="noopener noreferrer">
-    Meu perfil
-  </a>
-  
+* 💼 **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/adrickson-pinheiro-a5a194301/)
 * ✉️ **E-mail:** [pinheiroadrickson@gmail.com](mailto:pinheiroadrickson@gmail.com)
 
 
